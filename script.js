@@ -34,8 +34,8 @@ navLinks?.querySelectorAll('a').forEach(a =>
 // Paste your Apps Script Web App URLs here (one per form / sheet).
 // Leave as '' to skip submission (form will only log to console).
 const SHEET_ENDPOINTS = {
-  coachingForm: 'https://script.google.com/macros/s/AKfycbzuozhYMQ1TpzZY83Cib0IbK3y73ElGGSPtib1fFRoTss81HRWUEzQ6a_nQPI0hPIxtzg/exec',
-  collabForm:   '', // e.g. 'https://script.google.com/macros/s/AKfycb.../exec'
+  coachingForm: 'https://script.google.com/macros/s/AKfycbynb9VHUFMB0xWVqpU4VSzvebuGzXb-ga-8g7pY48ZpV-M1988wjPjaLaWE1lN72ALQ/exec',
+  collabForm:   'https://script.google.com/macros/s/AKfycbwjCZZnqB_3AAy0bnzQWwrARLWkA0DYIZKT2TvF7GERuEQuE46Uv9sPO7vPq1ijcli6XQ/exec',
 };
 
 // ---------- Form helper ----------
